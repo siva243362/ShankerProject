@@ -19,6 +19,8 @@ public class Myservlet extends HttpServlet {
 	}
 	public void destroy() {
 		System.out.println("It is from destroy method");
+		System.out.println("It is from destroy method");
+		System.out.println("It is from destroy method");
 	}
 
 
